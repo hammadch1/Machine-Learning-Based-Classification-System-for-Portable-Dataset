@@ -11,4 +11,5 @@ Introduction:
     - Setting parameters of chosen classifier                             (Checkbox for m-estimate, Input box for value of k and Input Box for value of max depth)
     - Show Input Boxes for entering unseen data sample to classify        (Input boxes for n features)
   - Showing classification results                                        (Button: Show Classification)
+  
   Note: Dataset should be in csv format and labels should be in the last column
