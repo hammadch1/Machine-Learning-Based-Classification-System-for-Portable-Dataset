@@ -16,6 +16,6 @@ Introduction:
 
 <a target='_blank'>
   
-  <img class='header-img' width=1374px height=736px src='https://raw.githubusercontent.com/hammadch1/Machine-Learning-Based-Classification-System-for-Portable-Dataset/master/tkinter_interface_screens/github_1.png' />
+  <img class='header-img' width=1174px height=436px src='https://raw.githubusercontent.com/hammadch1/Machine-Learning-Based-Classification-System-for-Portable-Dataset/master/tkinter_interface_screens/github_1.png' />
 
 </a>
